@@ -1,0 +1,1 @@
+In order to satisfy the static stability criterion, the center of mass has to be over the stability region or else we would fall because of gravity.
